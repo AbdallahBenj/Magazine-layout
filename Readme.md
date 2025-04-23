@@ -27,6 +27,6 @@ To explore the layout in your browser:
 
 Or view it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Magazine-layout/)
 
 ## Create stunning, editorial-style web layouts using the full power of CSS Grid! 🧩📖💻
